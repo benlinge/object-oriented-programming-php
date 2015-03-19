@@ -1,0 +1,67 @@
+body, html {
+    margin: 0;
+}
+
+header {
+    background: #E74C3C;
+    padding: 1% 2%;
+    margin-bottom: 1%;
+}
+
+* {
+    position: relative;
+}
+
+#logo {
+    margin: 0;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#logout {
+    margin: 0;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    float: right;
+}
+
+.wrapper {
+    padding: 1% 2%;
+}
+
+.add_row, .edit_row {
+    padding: 1% 0;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+.edit_row {
+    border-bottom: 1px solid #7F8C8D;
+}
+
+.add_btn {
+    padding: 1% 2%;
+    font-size: 16px;
+    background: #2ECC71;
+    display: block;
+    float: right;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.edit_btn {
+    padding: 1% 2%;
+    font-size: 16px;
+    background: #3498DB;
+    display: block;
+    float: right;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+

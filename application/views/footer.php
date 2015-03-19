@@ -1,0 +1,1 @@
+<div><br /><br /><a href="<?php echo base_url(); ?>">Back To Topics</a></div>
